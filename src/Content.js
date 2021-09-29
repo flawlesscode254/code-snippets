@@ -33,7 +33,7 @@ function Content() {
           marginTop: 10,
         }}
       >
-        All platforms are supported
+        All platforms are supported yes
       </p>
       <div>
         <p>
