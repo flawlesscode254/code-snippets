@@ -1,0 +1,23 @@
+.main-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 20px;
+    color: white;
+    flex-direction: column;
+}
+
+.snip-one {
+    background-color: white;
+    padding: 3px;
+    border-radius: 9px;
+    justify-content: center;
+    align-items: center;
+    color: "red";
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
